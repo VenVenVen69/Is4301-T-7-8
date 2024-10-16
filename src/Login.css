@@ -26,7 +26,12 @@
   margin-bottom: 10px;
   border: none;
   color: white;
-  background-color: black;
+  background-color: rgb(137, 43, 226);
+}
+
+.link a {
+  color: rgb(85, 26, 139);
+  font-size: 14px;
 }
 
 .login__google {
